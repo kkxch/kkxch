@@ -11,7 +11,7 @@
 </br>
 
 <div align = "center">
-    <img style = "width: 25em;" src = "OhExecute.png">
+    <img style = "width: 25em;" src = "stare.gif">
 </div>
 
 <div align = "center">
